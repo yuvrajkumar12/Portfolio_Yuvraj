@@ -1,7 +1,9 @@
 export const Bio = {
   name: "Yuvraj Kumar",
   roles: ["Full Stack Web Developer", "Software Engineer", "Programmer"],
-  description: `I am a final-year Computer Science student at Jodhpur Institute of Engineering and Technology. I’m a full-stack web developer with skills in C++, Java, JavaScript, and web technologies like HTML5, CSS, Tailwind CSS, Bootstrap, Node.js, and Express.js. I also work with MySQL and MongoDB for database management, and use tools like GitHub, Postman, and Photoshop. I love coding, solving problems, and learning new technologies to create efficient and user-friendly applications`,
+  description: `I am a final-year Computer Science student at Jodhpur Institute of 
+  Engineering and Technology. I’m a full-stack web developer with skills in C++, Java, JavaScript, and web technologies like HTML5, CSS, Tailwind CSS, Bootstrap, Node.js, and Express.js. I also work with MySQL and MongoDB for database management, and use tools like GitHub, Postman, and Photoshop. I love coding, solving problems, 
+  and learning new technologies to create efficient and user-friendly applications`,
   github: "https://github.com/yuvrajkumar12",
   resume:
     "https://res.cloudinary.com/dzncl0gbm/image/upload/Abhijit_Nanda_1_w0rblj.pdf",
