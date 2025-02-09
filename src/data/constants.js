@@ -6,7 +6,7 @@ export const Bio = {
   and learning new technologies to create efficient and user-friendly applications`,
   github: "https://github.com/yuvrajkumar12",
   resume:
-    "https://res.cloudinary.com/dzncl0gbm/image/upload/Abhijit_Nanda_1_w0rblj.pdf",
+    "https://drive.google.com/file/d/15p5y6cmuZv_6PhwTXjgWFFs7whK6KGT8/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/yuvrajkumar12/",
   twitter: "###",
   insta: "https://www.instagram.com/maurya_yuvraj44/",
