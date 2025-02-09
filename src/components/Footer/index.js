@@ -111,7 +111,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Abhijit Nanda</Logo>
+        <Logo>Yuvraj Kumar</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -121,8 +121,8 @@ function Footer() {
           <NavLink href="#contact">Contact</NavLink>
         </Nav>
         <ContactInfo>
-            Emails:<ContactInfos href="mailto:abhijitnanda8249@gmail.com">abhijitnanda8249@gmail.com</ContactInfos>
-            Number:<ContactInfos href="tel:+918249001710"> +91 8249001710</ContactInfos>
+            Emails:<ContactInfos href="mailto:yuvrajku44@gmail.com">yuvrajku44@gmail.com</ContactInfos>
+            Number:<ContactInfos href="tel:+917463038805"> +917463038805</ContactInfos>
         </ContactInfo>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
@@ -131,7 +131,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Abhijit Nanda. All rights reserved.
+          &copy; 2025 Yuvraj Kumar. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

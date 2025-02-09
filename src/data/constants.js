@@ -134,143 +134,146 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://web-assets.hyscaler.com/wp-content/uploads-webpc/uploads/2023/03/hyscaler-square-light-bg.png.webp",
-    role: "Junior Software Developer",
-    company: "Hyscaler",
-    date: "March 2024 - Present",
-    experiencesInYear: "",
+    img: "https://media.licdn.com/dms/image/v2/D560BAQHP4iG3eYPHPA/company-logo_200_200/company-logo_200_200/0/1696913393804?e=1747267200&v=beta&t=z8R3eiC3XfpR6AIb-XhDSC0-MYC9zVUDkhuLtLjWmo0",
+    role: "Software Development intern",
+    company: "Bluestock Fintechk",
+    date: "Jun 2024 -Jul 2024 ",
+    experiencesInYear: "Experience of 2 Month",
     desc: "Working on the full stack of the web application using PHP, Laravel,Filament, Mysql, PostgreSql .",
     skills: [
-      "PHP",
-      "Laravel",
-      "Filament",
-      "Mysql",
-      "HTML",
+      "HTML5",
       "CSS",
       "JavaScript",
+      "Mysql",
+      "Node js",
+      "Express",
+      "React js",
+    ],
+    doc: "#",
+  },
+  {
+    id: 1,
+    img: "https://lntedutech.com/wp-content/uploads/2024/08/text-logo-lntedutech.webp",
+    role: "L&T Skill Enhancement Program",
+    company: "L&T EduTech",
+    date: "May 2024 - Jul 2024",
+    experiencesInYear: "Experience of 3 Month",
+    desc: "Developed technical expertise in C++, Java, Data Structures, Database Management System and MySQL during the L&T Skill Enhancement Program.Enhanced coding skills in C++ and Java, focusing on algorithms, data structures, and time/space complexities.Applied theoretical knowledge to real-world scenarios optimizing systems for performance, reliability and scalability.",
+    skills: [
+      "C++",
+      "Java",
+      "DSA",
+      "DBMS",
+      "Mysql",
+      "Problem Solvin",
     ],
     doc: "https://drive.google.com/file/d/1DSnPOVgK4huL4Tw1H51-VKPjx6j1fMWH/view?usp=drivesdk",
   },
   {
     id: 1,
-    img: "https://web-assets.hyscaler.com/wp-content/uploads-webpc/uploads/2023/03/hyscaler-square-light-bg.png.webp",
-    role: "Full-stack Trainee Intern",
-    company: "Hyscaler",
-    date: "Aug 2023 - March 2024",
-    experiencesInYear: "Experience of 6 Month",
-    desc: "Working on the full stack of the web application using PHP, Laravel,Filament, Mysql, PostgreSql .",
-    skills: [
-      "PHP",
-      "Laravel",
-      "Filament",
-      "Mysql",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
-    doc: "https://drive.google.com/file/d/1DSnPOVgK4huL4Tw1H51-VKPjx6j1fMWH/view?usp=drivesdk",
-  },
-  {
-    id: 1,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOSnVFC2VDDJ9FUKAB2FBdZaAohgEgjiTPfce0S-C&s",
-    role: "Full-stack Internship",
-    company: "Digital It Web",
-    date: "Feb 2023 - July 2023",
-    experiencesInYear: "Experience of 6 Month",
-    desc: "Built an Hospital management full stack web app . I was the top performer in the program.",
-    skills: ["Html", "CSS", "JavaScript", "PHP", "Mysql", "Docker", "React Js"],
-    doc: "https://drive.google.com/file/d/1PSn0Ix6Ncop_Ky6m2WE-2J22kqejeVU-/view?usp=drivesdk",
+    img: "https://learnandbuild.in/wp-content/uploads/2024/03/cropped-Learn-Build-Blue-Logo-01-1-1.png",
+    role: "Full-stack Trainee",
+    company: "Learn and Build",
+    date: "May 2023 - Jul 2023",
+    experiencesInYear: "Experience of 3 Month",
+    desc: "Built an global travel booking platform utilizing Node.js, Express, MongoDB, and EJS, delivering a seamless user experience for discovering and booking unique accommodations across the world, Integrated robust user authentication systems, including sign-up, login, and logout features, enhancing security and providing a personalized user journey. Created and interactive property listing system with detailed descriptions, maps, images, and user-generated reviews,empowering users to make informed travel decisions and share their experiences.",
+    skills: ["Html", "CSS", "JavaScript", "Node js", "Express", "MySql", "React Js"],
+    doc: "#",
   },
 ];
 
 export const education = [
   {
     id: 0,
-    img: require("../Image/trident.png"),
-    school: "Trident Academy of Technology",
-    date: "Aug 2019 - July 2023",
-    grade: "8.02 CGPA",
-    percentage: "80.2%",
-    desc: "I have doen my graduation on Bachelor's degree in Computer Science and Engineering at Trident Academy of Technology, Bhubaneswar. I have completed 8 semesters and have a CGPA of 8.02 which is 80.2%. I have taken courses in Object-Oriented Programming, Database Management Systems, and Operating Systems, Javascript, PHP among others. I am also a member of the Cisco Developers Student Club (CiscoDSC) at TAT, where I am learning and working on exciting projects with a team of talented developers.",
+    img: require("../Image/JIET.png"),
+    school: "Jodhpur Institute of Engineering & Technology",
+    date: "Aug 2021 - May 2025",
+    grade: "7.97 CGPA",
+    percentage: "79.7%",
+    desc: "I have doen my graduation on Bachelor's degree in Computer Science and Engineering at Jodhpur Institute of Engineering & Technology, Jodhpur. I have completed 6 semesters and have a CGPA of 7.97 which is 79.7%. I have taken courses in Object-Oriented Programming,Data Structures and Algorithms,Database Management Systems, and Operating Systems, C++,Java,Javascript among others.Where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
     id: 1,
-    img: require("../Image/rcst.jpeg"),
-    school: "Royal College of Science and Technology, Bhubaneswar",
-    date: "Apr 2017 - Apr 2019",
+    img: require("../Image/DAV.png"),
+    school: "D.A.V. Post Graduate College, Siwan Bihar",
+    date: "Apr 2019 - Apr 2021",
     grade: "A",
-    percentage: "69.0%",
-    desc: "I've completed my 12th at Royal College of Science and Technology, Bhubaneswar, I've developed a strong foundation in academics and beyond. With a commitment to excellence, I've honed my skills in various subjects and cultivated a passion for learning. My time at Royal College of Science and Technology has equipped me with valuable knowledge, critical thinking abilities, and a drive for success, setting a solid platform for my future endeavors.",
-    degree: "CHSE(XII), Science with Computer",
+    percentage: "66.5%",
+    desc: "I've completed my 12th at D.A.V. Post Graduate College, Siwan Bihar, I've developed a strong foundation in academics and beyond. With a commitment to excellence, I've honed my skills in various subjects and cultivated a passion for learning. My time at D.A.V. Post Graduate College, Siwan has equipped me with valuable knowledge, critical thinking abilities, and a drive for success, setting a solid platform for my future endeavors.",
+    degree: "BSEB(XII), Science",
   },
   {
     id: 2,
-    img: require("../Image/ssvm.jpeg"),
-    school: "SaraSwati Shisu Vidya Mandir,Jajpur",
-    date: "Apr 2016 - Apr 2017",
+    img: require("../Image/SVS.png"),
+    school: "Shri Vidya Sundar High School in Amlori,Siwan",
+    date: "Apr 2018 - Apr 2019",
     grade: "A",
-    percentage: "77.0%",
-    desc: "I've completed my 10th grade at SaraSwati Shisu Vidya Mandir,Jajpur, I've developed a strong foundation in academics and cultivated valuable skills in various subjects. My time at SSVM has equipped me with critical thinking abilities, effective communication skills, and a dedication to excellence. I look forward to leveraging these qualities as I pursue my academic and career goals.",
-    degree: "BSE(X)",
+    percentage: "65.5%",
+    desc: "I've completed my 10th grade at Shri Vidya Sundar High School in Amlori,Siwan, I've developed a strong foundation in academics and cultivated valuable skills in various subjects. My time at SVS has equipped me with critical thinking abilities, effective communication skills, and a dedication to excellence. I look forward to leveraging these qualities as I pursue my academic and career goals.",
+    degree: "BSEB(X)",
   },
 ];
 
 export const projects = [
   {
     id: 0,
-    title: "Fullstack Ecommerce Site",
+    title: "Random Password Generator",
     date: "June 2023 - Aug 2023",
-    description: `Designed and developed intuitive front-end modules using React and Tailwind, with Express handling the backend to manage user
-data. Implemented MongoDB for efficient data storage, along with JWT-based user login and registration for secure authentication.
-Integrated Stripe and Razorpay payment gateways to ensure secure transactions and provide a seamless user experience across
-platforms. Enabled users to add products to their carts, place orders, and choose from multiple payment options, including Cash on
-Delivery (COD). Developed an admin panel allowing administrators to add, delete, and manage products, as well as oversee order
-processing and shipping statuses.`,
-    image: require("../Image/e-commerce.png"),
+    description: `One can set constraints to generate the password like including uppercase letters, Lowercase letters, Number and 
+Symbols.ne can also set the length of the password to generate and we can also get to know whether the generated password is 
+strong or weak`,
+    image: require("../Image/Random_password_generator.png"),
     tags: [
-      "React",
-      "MangoDB",
-      "Express",
-      "Tailwind Css",
-      "Stripe",
-      "Razorpay",
-      "JWT",
+      "HTML5",
+      "CSS",
+      "JavaScript",
     ],
     category: "web app",
-    github: "https://github.com/abhi051002/Forever-Ecommerce-FullStack",
-    webapp: "https://forever-frontend-wine.vercel.app/",
+    github: "https://github.com/yuvrajkumar12/Random-Password-generator",
+    webapp: "https://yuvrajkumar12.github.io/Random-Password-generator/",
+    isDone: true,
+  },
+
+  {
+    id: 1,
+    title: "Personal Finance Tracker",
+    date: "Jan 2025 - Feb 2025",
+    description: `A user-friendly finance management tool, built using React JS, ANT Design, and Firebase. 
+    Leverages react-firebase-hooks for seamless data 
+    synchronization and real-time updates.`,
+    image: require("../Image/home1.png"),
+    tags: ["React JS", "ANT Design","Firebase"],
+    category: "web app",
+    github: "https://github.com/yuvrajkumar12/financial-_web",
+    webapp: "https://github.com/yuvrajkumar12/financial-_web",
     isDone: true,
   },
   {
     id: 1,
-    title: "Hospital Management Site",
+    title: "Wander-Lust",
     date: "March 2023 - April 2023",
-    description: `Designed and developed dynamic front-end modules using React and Tailwind, with Express managing the backend for user data
-processing. Leveraged MongoDB for efficient data storage and implemented JWT-based user login and registration for robust
-authentication. Patients can easily log in, search for doctors by specialty, and book appointments based on preferred times and dates.
-The system includes a powerful admin panel where doctors can log in, adjust their fees, and manage upcoming appointments.
-Administrators can add or remove doctors, view, and modify all upcoming appointments. Stripe integration ensures secure payments
-for booking appointments, ensuring a smooth and reliable user experience.`,
+    description: `Engineered a global travel booking platform utilizing Node.js, Express, MongoDB, and EJS, delivering a seamless user 
+experience for discovering and booking unique accommodations across the world, Integrated robust user authentication systems, including sign-up, login, and logout features, enhancing security and 
+providing a personalized user journey. Created and interactive property listing system with detailed descriptions, maps, images, and user-generated reviews, 
+empowering users to make informed travel decisions and share their experiences.`,
     image: require("../Image/home1.png"),
-    tags: ["React", "MangoDB", "Express", "Tailwind Css", "Razorpay", "JWT"],
+    tags: ["HTML","CSS","JavaScript","MangoDB","NodeJs","Express","Tailwind Css"],
     category: "web app",
-    github: "https://github.com/abhi051002/hms-fullstack",
+    github: "https://github.com/yuvrajkumar12/Wander-Lust",
     webapp: "https://hms-frontend-umber.vercel.app",
     isDone: true,
   },
+  
   {
     id: 2,
-    title: "Job Portal",
-    date: "Nov 2024 - Working",
-    description: `Designed and developed dynamic front-end modules using React and Tailwind, with Express managing the backend for user data
-processing. Leveraged MongoDB for efficient data storage and implemented JWT-based user login and registration for robust
-authentication. Patients can easily log in, search for doctors by specialty, and book appointments based on preferred times and dates.
-The system includes a powerful admin panel where doctors can log in, adjust their fees, and manage upcoming appointments.
-Administrators can add or remove doctors, view, and modify all upcoming appointments. Stripe integration ensures secure payments
-for booking appointments, ensuring a smooth and reliable user experience.`,
+    title: "Stream",
+    date: "Feb 202 - Working",
+    description: `A real-time collaborative code editor, allowing multiple users to work simultaneously on the same codebase.
+     Ensuring seamless real-time synchronization of code changes across multiple users.Implemented a multiroom feature in the real-time, to create and join multiple virtual rooms for collaboration on different 
+projects.Features: Change theme, Change Language, Avatar of users, Notifications, multiple rooms, security.`,
     image: require("../Image/jobportal.png"),
-    tags: ["React", "MangoDB", "Express", "Tailwind Css", "JWT"],
+    tags: ["React", "Express", "NodeJs", "Socket.io", "Codemirror"],
     category: "web app",
     github: "",
     webapp: "",
