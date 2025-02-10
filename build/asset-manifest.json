@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yuvrajkumar12/Portfolio_Yuvraj/static/css/main.34384e9d.css",
+    "main.js": "/yuvrajkumar12/Portfolio_Yuvraj/static/js/main.53f65a4e.js",
+    "static/media/HeroImage.png": "/yuvrajkumar12/Portfolio_Yuvraj/static/media/HeroImage.786596e6343612a47228.png",
+    "static/media/Random_password_generator.png": "/yuvrajkumar12/Portfolio_Yuvraj/static/media/Random_password_generator.930d16bda504e5aeb4d6.png",
+    "static/media/home1.png": "/yuvrajkumar12/Portfolio_Yuvraj/static/media/home1.a5e2c9535a402617c5c8.png",
+    "static/media/DAV.png": "/yuvrajkumar12/Portfolio_Yuvraj/static/media/DAV.49b0bd39ab77fedcadec.png",
+    "static/media/jobportal.png": "/yuvrajkumar12/Portfolio_Yuvraj/static/media/jobportal.c2a52f37e9cb087ab724.png",
+    "static/media/JIET.png": "/yuvrajkumar12/Portfolio_Yuvraj/static/media/JIET.0f23daddd0bc2245de06.png",
+    "static/media/SVS.png": "/yuvrajkumar12/Portfolio_Yuvraj/static/media/SVS.191aaf997687e37891e8.png",
+    "index.html": "/yuvrajkumar12/Portfolio_Yuvraj/index.html",
+    "main.34384e9d.css.map": "/yuvrajkumar12/Portfolio_Yuvraj/static/css/main.34384e9d.css.map",
+    "main.53f65a4e.js.map": "/yuvrajkumar12/Portfolio_Yuvraj/static/js/main.53f65a4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34384e9d.css",
+    "static/js/main.53f65a4e.js"
+  ]
+}
