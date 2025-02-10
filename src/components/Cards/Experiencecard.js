@@ -11,6 +11,8 @@ max-width: 100%;
 text-overflow: ellipsis;
 `;
 
+
+
 const Document = styled.img`
     display: none;
     height: 70px;
