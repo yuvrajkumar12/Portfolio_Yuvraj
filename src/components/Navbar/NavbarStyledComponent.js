@@ -26,7 +26,6 @@ export const NavbarContainer = styled.div`
   padding: 0 24px;
   max-width: 1200px;
 `;
-
 export const NavLogo = styled(LinkR)`
   width: 80%;
   padding: 0 6px;
@@ -56,7 +55,6 @@ export const NavItems = styled.ul`
     display: none;
   }
 `;
-
 export const NavLink = styled.a`
   color: ${({ theme }) => theme.text_primary};
   font-weight: 500;
@@ -66,12 +64,10 @@ export const NavLink = styled.a`
   :hover {
     color: ${({ theme }) => theme.primary};
   }
-
   &.active {
     border-bottom: 2px solid ${({ theme }) => theme.primary};
   }
 `;
-
 export const GitHubButton = styled.a`
   border: 1.8px solid ${({ theme }) => theme.primary};
   justify-content: center;
@@ -94,7 +90,6 @@ export const GitHubButton = styled.a`
     font-size: 14px;
   }
 `;
-
 export const ButtonContainer = styled.div`
   width: 80%;
   height: 100%;
@@ -106,7 +101,6 @@ export const ButtonContainer = styled.div`
     display: none;
   }
 `;
-
 export const MobileIcon = styled.div`
   display: none;
   @media screen and (max-width: 768px) {
@@ -120,7 +114,6 @@ export const MobileIcon = styled.div`
     color: ${({ theme }) => theme.text_primary};
   }
 `;
-
 export const MobileMenu = styled.div`
   display: flex;
   flex-direction: column;
@@ -151,7 +144,6 @@ export const MobileMenuItems = styled.ul`
   width: 100%;
   height: 100%;
 `;
-
 export const MobileMenuLink = styled(LinkR)`
   color: ${({ theme }) => theme.text_primary};
   font-weight: 500;
