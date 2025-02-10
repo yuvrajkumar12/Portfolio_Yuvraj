@@ -149,7 +149,7 @@ export const experiences = [
       "Express",
       "React js",
     ],
-    doc: "#",
+    doc: "https://drive.google.com/file/d/1DSnPOVgK4huL4Tw1H51-VKPjx6j1fMWH/view?usp=drivesdk",
   },
   {
     id: 1,
@@ -178,7 +178,7 @@ export const experiences = [
     experiencesInYear: "Experience of 3 Month",
     desc: "Built an global travel booking platform utilizing Node.js, Express, MongoDB, and EJS, delivering a seamless user experience for discovering and booking unique accommodations across the world, Integrated robust user authentication systems, including sign-up, login, and logout features, enhancing security and providing a personalized user journey. Created and interactive property listing system with detailed descriptions, maps, images, and user-generated reviews,empowering users to make informed travel decisions and share their experiences.",
     skills: ["Html", "CSS", "JavaScript", "Node js", "Express", "MySql", "React Js"],
-    doc: "#",
+    doc: "https://drive.google.com/file/d/1DSnPOVgK4huL4Tw1H51-VKPjx6j1fMWH/view?usp=drivesdk",
   },
 ];
 
