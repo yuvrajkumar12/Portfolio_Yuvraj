@@ -249,21 +249,6 @@ strong or weak`,
     webapp: "https://github.com/yuvrajkumar12/financial-_web",
     isDone: true,
   },
-  {
-    id: 1,
-    title: "Wander-Lust",
-    date: "March 2023 - April 2023",
-    description: `Engineered a global travel booking platform utilizing Node.js, Express, MongoDB, and EJS, delivering a seamless user 
-experience for discovering and booking unique accommodations across the world, Integrated robust user authentication systems, including sign-up, login, and logout features, enhancing security and 
-providing a personalized user journey. Created and interactive property listing system with detailed descriptions, maps, images, and user-generated reviews, 
-empowering users to make informed travel decisions and share their experiences.`,
-    image: require("../Image/home1.png"),
-    tags: ["HTML","CSS","JavaScript","MangoDB","NodeJs","Express","Tailwind Css"],
-    category: "web app",
-    github: "https://github.com/yuvrajkumar12/Wander-Lust",
-    webapp: "https://hms-frontend-umber.vercel.app",
-    isDone: true,
-  },
   
   {
     id: 2,
