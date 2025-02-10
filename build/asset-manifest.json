@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.34384e9d.css",
-    "main.js": "/portfolio/static/js/main.b1c6d5f4.js",
-    "static/media/HeroImage.png": "/portfolio/static/media/HeroImage.786596e6343612a47228.png",
-    "static/media/Random_password_generator.png": "/portfolio/static/media/Random_password_generator.930d16bda504e5aeb4d6.png",
-    "static/media/home1.png": "/portfolio/static/media/home1.a5e2c9535a402617c5c8.png",
-    "static/media/DAV.png": "/portfolio/static/media/DAV.49b0bd39ab77fedcadec.png",
-    "static/media/jobportal.png": "/portfolio/static/media/jobportal.c2a52f37e9cb087ab724.png",
-    "static/media/JIET.png": "/portfolio/static/media/JIET.0f23daddd0bc2245de06.png",
-    "static/media/SVS.png": "/portfolio/static/media/SVS.191aaf997687e37891e8.png",
-    "index.html": "/portfolio/index.html",
-    "main.34384e9d.css.map": "/portfolio/static/css/main.34384e9d.css.map",
-    "main.b1c6d5f4.js.map": "/portfolio/static/js/main.b1c6d5f4.js.map"
+    "main.css": "/teams/yuvrajkumar12/sites/static/css/main.34384e9d.css",
+    "main.js": "/teams/yuvrajkumar12/sites/static/js/main.9a83ddca.js",
+    "static/media/HeroImage.png": "/teams/yuvrajkumar12/sites/static/media/HeroImage.786596e6343612a47228.png",
+    "static/media/Random_password_generator.png": "/teams/yuvrajkumar12/sites/static/media/Random_password_generator.930d16bda504e5aeb4d6.png",
+    "static/media/home1.png": "/teams/yuvrajkumar12/sites/static/media/home1.a5e2c9535a402617c5c8.png",
+    "static/media/DAV.png": "/teams/yuvrajkumar12/sites/static/media/DAV.49b0bd39ab77fedcadec.png",
+    "static/media/jobportal.png": "/teams/yuvrajkumar12/sites/static/media/jobportal.c2a52f37e9cb087ab724.png",
+    "static/media/JIET.png": "/teams/yuvrajkumar12/sites/static/media/JIET.0f23daddd0bc2245de06.png",
+    "static/media/SVS.png": "/teams/yuvrajkumar12/sites/static/media/SVS.191aaf997687e37891e8.png",
+    "index.html": "/teams/yuvrajkumar12/sites/index.html",
+    "main.34384e9d.css.map": "/teams/yuvrajkumar12/sites/static/css/main.34384e9d.css.map",
+    "main.9a83ddca.js.map": "/teams/yuvrajkumar12/sites/static/js/main.9a83ddca.js.map"
   },
   "entrypoints": [
     "static/css/main.34384e9d.css",
-    "static/js/main.b1c6d5f4.js"
+    "static/js/main.9a83ddca.js"
   ]
 }
