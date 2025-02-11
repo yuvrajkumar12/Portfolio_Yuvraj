@@ -149,7 +149,7 @@ export const experiences = [
       "Express",
       "React js",
     ],
-    doc: "https://drive.google.com/file/d/1DSnPOVgK4huL4Tw1H51-VKPjx6j1fMWH/view?usp=drivesdk",
+    doc: "https://drive.google.com/file/d/15p5y6cmuZv_6PhwTXjgWFFs7whK6KGT8/view?usp=sharing",
   },
   {
     id: 1,
@@ -167,7 +167,7 @@ export const experiences = [
       "Mysql",
       "Problem Solvin",
     ],
-    doc: "https://drive.google.com/file/d/1DSnPOVgK4huL4Tw1H51-VKPjx6j1fMWH/view?usp=drivesdk",
+    doc: "https://drive.google.com/file/d/15p5y6cmuZv_6PhwTXjgWFFs7whK6KGT8/view?usp=sharing",
   },
   {
     id: 1,
@@ -178,10 +178,9 @@ export const experiences = [
     experiencesInYear: "Experience of 3 Month",
     desc: "Built an global travel booking platform utilizing Node.js, Express, MongoDB, and EJS, delivering a seamless user experience for discovering and booking unique accommodations across the world, Integrated robust user authentication systems, including sign-up, login, and logout features, enhancing security and providing a personalized user journey. Created and interactive property listing system with detailed descriptions, maps, images, and user-generated reviews,empowering users to make informed travel decisions and share their experiences.",
     skills: ["Html", "CSS", "JavaScript", "Node js", "Express", "MySql", "React Js"],
-    doc: "https://drive.google.com/file/d/1DSnPOVgK4huL4Tw1H51-VKPjx6j1fMWH/view?usp=drivesdk",
+    doc: "https://drive.google.com/file/d/15p5y6cmuZv_6PhwTXjgWFFs7whK6KGT8/view?usp=sharing",
   },
 ];
-
 export const education = [
   {
     id: 0,
@@ -257,7 +256,7 @@ strong or weak`,
     description: `A real-time collaborative code editor, allowing multiple users to work simultaneously on the same codebase.
      Ensuring seamless real-time synchronization of code changes across multiple users.Implemented a multiroom feature in the real-time, to create and join multiple virtual rooms for collaboration on different 
 projects.Features: Change theme, Change Language, Avatar of users, Notifications, multiple rooms, security.`,
-    image: require("../Image/jobportal.png"),
+    image: require("../Image/Stream.png"),
     tags: ["React", "Express", "NodeJs", "Socket.io", "Codemirror"],
     category: "web app",
     github: "",
