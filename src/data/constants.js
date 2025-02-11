@@ -242,7 +242,7 @@ strong or weak`,
     description: `A user-friendly finance management tool, built using React JS, ANT Design, and Firebase. 
     Leverages react-firebase-hooks for seamless data 
     synchronization and real-time updates.`,
-    image: require("../Image/Personal_finance.png"),
+    image: require("../Image/Presonal_finance.png"),
     tags: ["React JS", "ANT Design","Firebase"],
     category: "web app",
     github: "https://github.com/yuvrajkumar12/financial-_web",
