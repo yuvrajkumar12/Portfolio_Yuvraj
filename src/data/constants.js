@@ -189,7 +189,7 @@ export const education = [
     date: "Aug 2021 - May 2025",
     grade: "7.97 CGPA",
     percentage: "79.7%",
-    desc: "I have doen my graduation on Bachelor's degree in Computer Science and Engineering at Jodhpur Institute of Engineering & Technology, Jodhpur. I have completed 6 semesters and have a CGPA of 7.97 which is 79.7%. I have taken courses in Object-Oriented Programming,Data Structures and Algorithms,Database Management Systems, and Operating Systems, C++,Java,Javascript among others.Where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing my Bachelor's degree in Computer Science and Engineering at Jodhpur Institute of Engineering & Technology, Jodhpur. I have a CGPA of 7.97 (79.7%) and have taken courses in Object-Oriented Programming, Data Structures and Algorithms, Database Management Systems, Operating Systems, C++, Java, JavaScript, among others. I am also working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
