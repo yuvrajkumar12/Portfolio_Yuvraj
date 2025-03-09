@@ -1,12 +1,12 @@
 export const Bio = {
   name: "Yuvraj Kumar",
   roles: ["Full Stack Web Developer", "Software Engineer", "Programmer"],
-  description: `I am a final-year Computer Science student at Jodhpur Institute of 
-  Engineering and Technology. I’m a full-stack web developer with skills in C++, Java, JavaScript, and web technologies like HTML5, CSS, Tailwind CSS, Bootstrap, Node.js, and Express.js. I also work with MySQL and MongoDB for database management, and use tools like GitHub, Postman, and Photoshop. I love coding, solving problems, 
-  and learning new technologies to create efficient and user-friendly applications`,
+  description: `I am a final-year Computer Science student at Jodhpur Institute of Engineering and Technology, specializing in full-stack web development. Proficient in C++, Java, and JavaScript, I excel in building scalable applications using HTML5, CSS, Tailwind CSS, Bootstrap, Node.js, and Express.js.
+
+I have hands-on experience with MySQL and MongoDB for database management and utilize tools like GitHub, Postman, and Photoshop to enhance development workflows. Passionate about coding and problem-solving, I continuously explore new technologies to create efficient and user-friendly solutions.`,
   github: "https://github.com/yuvrajkumar12",
   resume:
-    "https://drive.google.com/file/d/15p5y6cmuZv_6PhwTXjgWFFs7whK6KGT8/view?usp=sharing",
+    "https://drive.google.com/file/d/1kM9zxaHzlLLNYcj3wQrh38eoGyboYXwT/view?usp=sharings",
   linkedin: "https://www.linkedin.com/in/yuvrajkumar12/",
   twitter: "###",
   insta: "https://www.instagram.com/maurya_yuvraj44/",
@@ -136,10 +136,10 @@ export const experiences = [
     id: 0,
     img: "https://media.licdn.com/dms/image/v2/D560BAQHP4iG3eYPHPA/company-logo_200_200/company-logo_200_200/0/1696913393804?e=1747267200&v=beta&t=z8R3eiC3XfpR6AIb-XhDSC0-MYC9zVUDkhuLtLjWmo0",
     role: "Software Development intern",
-    company: "Bluestock Fintechk",
+    company: "Bluestock Fintech",
     date: "Jun 2024 -Jul 2024 ",
     experiencesInYear: "Experience of 2 Month",
-    desc: "Working on the full stack of the web application using PHP, Laravel,Filament, Mysql, PostgreSql .",
+    desc: " Amplified proficiency in JavaScript, Node.js, and React.js, catalyzing the development of innovative softwaresolutions.Collaborated on the enhancement of the company’s software suite for streamlined team management, leveraging Server-Side and Client-Side Paginations.",
     skills: [
       "HTML5",
       "CSS",
@@ -265,10 +265,4 @@ projects.Features: Change theme, Change Language, Avatar of users, Notifications
   },
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+
