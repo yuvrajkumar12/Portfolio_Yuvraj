@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Yuvraj/static/css/main.34384e9d.css",
-    "main.js": "/Portfolio_Yuvraj/static/js/main.e10cbcf9.js",
+    "main.js": "/Portfolio_Yuvraj/static/js/main.1f8d09f6.js",
     "static/media/HeroImage.png": "/Portfolio_Yuvraj/static/media/HeroImage.786596e6343612a47228.png",
     "static/media/Random_password_generator.png": "/Portfolio_Yuvraj/static/media/Random_password_generator.930d16bda504e5aeb4d6.png",
     "static/media/DAV.png": "/Portfolio_Yuvraj/static/media/DAV.49b0bd39ab77fedcadec.png",
@@ -11,10 +11,10 @@
     "static/media/SVS.png": "/Portfolio_Yuvraj/static/media/SVS.191aaf997687e37891e8.png",
     "index.html": "/Portfolio_Yuvraj/index.html",
     "main.34384e9d.css.map": "/Portfolio_Yuvraj/static/css/main.34384e9d.css.map",
-    "main.e10cbcf9.js.map": "/Portfolio_Yuvraj/static/js/main.e10cbcf9.js.map"
+    "main.1f8d09f6.js.map": "/Portfolio_Yuvraj/static/js/main.1f8d09f6.js.map"
   },
   "entrypoints": [
     "static/css/main.34384e9d.css",
-    "static/js/main.e10cbcf9.js"
+    "static/js/main.1f8d09f6.js"
   ]
 }
