@@ -217,6 +217,38 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Wander-Lust",
+    date: "Oct2024 - Jan2025",
+    description: `Engineered a global travel booking platform utilizing Node.js, Express, MongoDB, and EJS, delivering a seamless
+user experience for discovering and booking unique accommodations across the world.
+Integrated robust user authentication systems, including sign-up, login, and logout features, enhancing security and
+providing a personalized user journey.
+Created and interactive property listing system with detailed descriptions, maps, images, and user-generated
+reviews, empowering users to make informed travel decisions and share their experiences.`,
+    image: require("../Image/Presonal_finance.png"),
+    tags: ["HTML5", "CSS","JavaScript","Node.js", "Express","MongoDB"],
+    category: "web app",
+    github: "https://github.com/yuvrajkumar12/Wander-Lust",
+    webapp: "###",
+    isDone: true,
+  },
+  
+  {
+    id: 2,
+    title: "Personal Finance Tracker",
+    date: "Jan 2025 - Feb 2025",
+    description: `A user-friendly finance management tool, built using React JS, ANT Design, and Firebase. 
+    Leverages react-firebase-hooks for seamless data 
+    synchronization and real-time updates.`,
+    image: require("../Image/Presonal_finance.png"),
+    tags: ["React JS", "ANT Design","Firebase"],
+    category: "web app",
+    github: "https://github.com/yuvrajkumar12/financial-_web",
+    webapp: "https://yuvrajkumar12.github.io/Appna_Bank/",
+    isDone: true,
+  },
+  {
+    id: 3,
     title: "Random Password Generator",
     date: "June 2023 - Aug 2023",
     description: `One can set constraints to generate the password like including uppercase letters, Lowercase letters, Number and 
@@ -233,24 +265,8 @@ strong or weak`,
     webapp: "https://yuvrajkumar12.github.io/Random-Password-generator/",
     isDone: true,
   },
-
   {
     id: 1,
-    title: "Personal Finance Tracker",
-    date: "Jan 2025 - Feb 2025",
-    description: `A user-friendly finance management tool, built using React JS, ANT Design, and Firebase. 
-    Leverages react-firebase-hooks for seamless data 
-    synchronization and real-time updates.`,
-    image: require("../Image/Presonal_finance.png"),
-    tags: ["React JS", "ANT Design","Firebase"],
-    category: "web app",
-    github: "https://github.com/yuvrajkumar12/financial-_web",
-    webapp: "https://github.com/yuvrajkumar12/financial-_web",
-    isDone: true,
-  },
-  
-  {
-    id: 2,
     title: "Stream",
     date: "Feb 202 - Working",
     description: `A real-time collaborative code editor, allowing multiple users to work simultaneously on the same codebase.
